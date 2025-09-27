@@ -4,8 +4,8 @@
   "description": "Shronda Jeanine & Company - Arizona Community Action Program",
   "main": "index.html",
   "scripts": {
-    "start": "python3 -m http.server 3000",
-    "dev": "python3 -m http.server 3000"
+    "start": "http-server -p 8000",
+    "dev": "http-server -p 8000"
   },
   "keywords": ["wellness", "community", "healing", "arizona"],
   "author": "Shronda Jeanine & Company",
